@@ -1,0 +1,4 @@
+# 命令补全不区分大小写
+set show-all-if-ambiguous on
+set completion-ignore-case on
+TAB: menu-complete
